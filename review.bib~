@@ -1,0 +1,14 @@
+%first citation
+@misc{Atharvaveda,
+    AUTHOR = "Anonymous",
+	TITLE = "Golmaal
+	LANGUAGE = "Hindi",
+    howpublished       = "\url{https://en.wikipedia.org/wiki/Gol_Maal}"
+}
+%second citation
+@misc{wikisite,
+    AUTHOR    = "Wikipedia",
+    TITLE     = "Anand",
+    howpublished       = "\url{https://en.wikipedia.org/wiki/Anand_(1971_film)}"
+    
+}
